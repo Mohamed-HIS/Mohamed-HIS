@@ -3,14 +3,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Front-End Devolper
+- 🔭 &nbsp; I’m currently learning programming
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying medicine and have fun with programming.
 - 💼 &nbsp; front-end web developer.
 - 🤲 &nbsp; I belive,a good prayer solves all my problems and solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; C++| C# | HTML & CSS
 
 <h3> 🤝🏻 Connect with Me </h3>
 
