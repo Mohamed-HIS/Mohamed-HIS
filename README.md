@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently learning programming
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying medicine and have fun with programming.
-- 💼 &nbsp; front-end web developer.
 - 🤲 &nbsp; I belive,a good prayer solves all my problems and solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
